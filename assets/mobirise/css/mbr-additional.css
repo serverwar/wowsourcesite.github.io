@@ -979,3 +979,27 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sg3e3etFkI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/modelo-de-plano-de-fundo-branco-retangular-8167-580-626x417.jpg");
+}
+.cid-sg3e3etFkI .title {
+  margin-bottom: 2rem;
+}
+.cid-sg3e3etFkI .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sg3e3etFkI a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-sg3e3etFkI a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-sg3e3etFkI textarea.form-control {
+  min-height: 188px;
+}
+.cid-sg3e3etFkI H2 {
+  color: #0f7699;
+}
